@@ -1,9 +1,4 @@
-#!/usr/local/bin/python3
-# ./apply_code : apply a random code to an input file
-#
-# You don't have to do anything with this file -- it may just
-# be useful for testing purposes
-#
+
 import random
 import math
 import copy 
