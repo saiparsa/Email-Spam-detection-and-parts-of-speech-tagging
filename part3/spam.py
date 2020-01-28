@@ -1,8 +1,3 @@
-#!/usr/local/bin/python3
-# CSCI B551 Fall 2019
-#
-# Authors: sanath Keerthi Edupuganti,Sai Prasad Parsa,Akhil Nagulavancha
-
 import numpy as np
 import os
 import sys
