@@ -1,10 +1,6 @@
-###################################
-# CS B551 Fall 2019, Assignment #3
-#
-# Your names and user ids:
-#
+
 # (Based on skeleton code by D. Crandall)
-#
+
 
 
 import random
