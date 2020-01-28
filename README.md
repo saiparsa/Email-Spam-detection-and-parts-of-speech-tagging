@@ -1,9 +1,3 @@
-# a3
-
-Part -1:
-
-Training:
-
 From training we aimed at acquiring the following probabilities:
 
 Probability of a particular part of speech to begin a sentence.
@@ -18,12 +12,6 @@ Viterbi:
 
 In viterbi for the first word depends on the probability that the part of speech comes first in a sentence and the probability of the word given speech,then we store the max values.For the second word we use transition, emission, previous viterbi values.We take the max of product of transition probability and previous viterbi values of it and multiply it with the emission probability.
 We repeat the same for all words and store the values during this forward cycle.Then we backtrack along the previously used viterbi coefficients leading to the best path.
-
-PART-2:
-
-TASK: To Interpret the message in the given encyrpted by the Replacement and Rearrangement techniques.
-Inputs to be given:
-
 To break the encrypted code we pass Corpus,encrypted string.
 Expected outputs:
 
@@ -49,10 +37,6 @@ Approach:
 6)From the next iterations we modify the Rearrangement and Replacement tables and repeat step 5
 
 7)From all the analysed cases if space is included case:a gives a better output compared to the other 2 
-
-PART-3:
-
-TASK: Classiﬁcation problem: Deciding whether or not an e-mail is spam.
 
 Inputs:
 Spam and Notspam emails as a training data.
