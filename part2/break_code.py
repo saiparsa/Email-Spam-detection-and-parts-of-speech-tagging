@@ -1,12 +1,5 @@
-#!/usr/local/bin/python3
-# CSCI B551 Fall 2019
-#
-# Authors: SANATH KEERTHI EDUPUGANTI,SAI PRASAD PARSA,AKHIL NAGULAVANCHA
-#
+
 # based on skeleton code by D. Crandall, 11/2019
-#
-# ./break_code.py : attack encryption
-#
 
 
 import random
